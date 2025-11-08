@@ -219,39 +219,6 @@ VITE_API_BASE=http://localhost:4000
 - SQLite database provides persistence between sessions
 - All product data is mock data from a fake store API
 
-## 📷 Adding Screenshots
-
-To add actual screenshots to this README:
-
-1. **Start both backend and frontend servers**
-2. **Take screenshots of key pages**:
-   - Product catalog page
-   - Shopping cart with items
-   - Checkout form
-   - Order receipt modal
-   - Mobile responsive views
-
-3. **Save screenshots** in the `screenshots/` folder with these names:
-   - `product-catalog.png`
-   - `shopping-cart.png`
-   - `checkout-page.png`
-   - `order-receipt.png`
-   - `mobile-view.png`
-
-4. **Screenshot tips**:
-   - Use full browser width for desktop views
-   - Capture mobile view using browser dev tools (F12 → Device Mode)
-   - Ensure good lighting and clear text
-   - Include browser address bar to show localhost URLs
-   - Consider using tools like [Screely](https://screely.com/) for professional mockups
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 👨‍💻 Author
 
