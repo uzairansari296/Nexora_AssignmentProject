@@ -255,7 +255,7 @@ To add actual screenshots to this README:
 
 ## 👨‍💻 Author
 
-Built with ❤️ by [ ]
+Built with ❤️ by Uzair
 
 ---
 
